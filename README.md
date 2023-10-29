@@ -1,2 +1,2 @@
-# AdventOfCode2022
-Working through a bunch of problems
+# Test repo
+Working on learning git
